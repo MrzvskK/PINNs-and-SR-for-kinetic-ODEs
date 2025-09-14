@@ -4,7 +4,7 @@ PINNs and Symbolic regression for solving kinetic ODEs.
 In this example we use PINNs and symbolic regression to uncover parameters of Ordinary Differential Equation(s) that describe the kinetic process of ageing of cellulose. 
 
 In the first example we use Ekenstam ODE:
-$𝑑𝐷𝑃/𝑑𝑡=−𝑘⋅𝐷𝑃^2$
+$\frac{𝑑𝐷𝑃}{𝑑𝑡}=−𝑘⋅𝐷𝑃^2$
 
 where:
 𝑘=𝐴⋅𝑒^(−𝐸/𝑅𝑇)
