@@ -27,4 +27,6 @@ $𝑘_{1_{0}}=𝑘_1 (0)$
 
 PINNs are implemented using Python and Tensorflow, using Adam opimizer. 
 
+For Symbolic Regression we use an open-source library PySR, here: https://github.com/MilesCranmer/PySR
+
 All the hyperparameters can be found https://arxiv.org/abs/2504.03484 
